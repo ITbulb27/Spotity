@@ -18,7 +18,7 @@ Welcome to the **Spotify Clone**, a modern and responsive web music player that 
 
 ## 🖥️ Live Demo
 
-🔗 [Try the Spotify Clone](https://mohammadsameer01.github.io/spotify/)
+🔗 [Try the Spotify Clone](https://itbulb27.github.io/Spotity/)
 
 ## 📸 Screenshots
 
@@ -42,5 +42,5 @@ Welcome to the **Spotify Clone**, a modern and responsive web music player that 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mohammadsameer01/spotify.git
+   git clone https://github.com/ITbulb27/Spotity.git
    ```
